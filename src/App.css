@@ -1,0 +1,59 @@
+
+body{
+    color: blue;
+
+
+}
+
+#cont {
+    text-align: center;
+    margin: 15px;
+}
+
+#navM {
+    width: 800px;
+    height: 60px;
+    padding: 0px;
+    margin: 0px auto;
+}
+
+#navM ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+
+#navM ul li {
+    width: 150px;
+    float: left;
+    margin: 4px;
+    border: 1px solid green;
+}
+
+#navM ul li a {
+    font-family: verdana, arial;
+    text-decoration: none;
+    display: block;
+    width: 150px;
+    height: 50px;
+    line-height: 25px;
+    font-size: 13pt;
+    background-color: yellow;
+}
+
+
+#navM a:hover {
+    backgroung-position: 0px -40px;
+    font-weight:bold;
+    color: #FFF;
+}
+
+
+
+
+
+
+
+
+
